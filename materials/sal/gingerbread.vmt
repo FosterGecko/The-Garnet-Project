@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sal/gingerbread"
+	//"$detail" "detail\noise_detail_01"
+   	//"$detailscale" "16"
+   	//"$detailblendfactor" ".25"
+   	//"$detailblendmode" "0"
+}

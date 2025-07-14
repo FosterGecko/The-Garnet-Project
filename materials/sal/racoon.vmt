@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sal/racoon"
+"$phong" "1"
+    "$phongexponent" "32"
+    "$phongboost" "5"
+    "$phongfresnelranges" "[1 3 8]"
+}
