@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/items/demo/demo_blackula/collartex"
+	"$surfaceprop"	"default"
+
+}
+
+

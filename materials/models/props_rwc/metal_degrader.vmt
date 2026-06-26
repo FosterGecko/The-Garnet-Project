@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_rwc/metal_degrader_diffuse"
+	"$bumpmap"    "models/props_rwc/metal_degrader_normal"
+	$surfaceprop "metal"
+
+    $phong 1
+   $phongexponent 50
+    $phongexponenttexture "models/props_rwc/metal_degrader_glossiness"
+    $phongboost   10
+    $phongfresnelranges    "[50 50 50]"
+}

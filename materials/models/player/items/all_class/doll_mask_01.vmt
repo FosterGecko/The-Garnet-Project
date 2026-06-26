@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\all_class/doll_mask_01.vtf"
+
+	"$bumpmap" "models\effects\flat_normal" 
+
+}

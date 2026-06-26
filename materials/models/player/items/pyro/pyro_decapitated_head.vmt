@@ -1,0 +1,5 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models\player\items\pyro\pyro_decapitated_head"
+	"$texture2" "models\player\items\pyro\pyro_decapitated_head_waves"
+}

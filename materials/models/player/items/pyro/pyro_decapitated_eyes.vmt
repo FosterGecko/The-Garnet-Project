@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects\softglow"
+	"$bumpmap" "models/effects/flat_normal"
+
+}

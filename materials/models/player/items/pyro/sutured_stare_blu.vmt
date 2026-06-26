@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\items\pyro\sutured_stare_blu.vtf"
+	"$lightwarptexture" "models\player\pyro\pyro_lightwarp"
+}

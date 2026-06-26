@@ -194,7 +194,7 @@ function meta:getEyeSightHitEntity(searchDistance, hitDistance, filter)
     local smallestDistance = math.huge
     local foundEnt
 
-    for _, ent in pairs(entities) do
+    for _, ent in ipairs(entities) do
         if not IsValid(ent) or filter(ent) == false then continue end
 
         local center = ent:GetPos()
@@ -369,7 +369,7 @@ Like tonumber, but makes sure it's an integer
 ---------------------------------------------------------------------------]]
 function DarkRP.toInt(value)
     value = tonumber(value)
-    return value and math.floor(value)
+    return value and value == value and math.floor(value)
 end
 
 --[[-------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\player\items\demo\lochness.vtf"
+	"$bumpmap" "models\player\items\demo\lochness_normal"
+
+}
+
+

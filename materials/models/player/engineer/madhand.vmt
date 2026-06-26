@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/engineer/madhand.vtf"
+	"$bumpmap"     "models/player/engineer/madhand_normal.vtf"
+
+
+
+}

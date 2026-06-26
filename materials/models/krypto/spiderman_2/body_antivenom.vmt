@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/spiderman_2/body_antivenom"
+	"$bumpmap" "models/krypto/spiderman_2/body_n"
+                "$phongexponenttexture" "models/krypto/spiderman_2/body_S"
+
+"$phong" "1"
+"$phongboost" ".5"
+"$phongfresnelranges" "[0.15 0.5 1]"
+
+"$color2" "[0.9 0.9 0.9]"
+"$detail" "models/krypto/spiderman_2/body_L"
+"$detailscale" "1"	
+"$detailblendmode" "0"
+"$detailblendfactor" "0.4"
+
+"$model" "1"
+"$ambientocclusion" "1"
+"$ambientoccltexture" "models/krypto/spiderman_2/body_l"
+"$ambientocclusiontexture" "models/krypto/spiderman_2/body_l"
+
+"$rimlight" "1" 
+"$rimlightexponent" "1" 
+"$rimlightboost" "1" 
+"$rimmask" "1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\pyro\Skullmask"
+	"$bumpmap" "models\player\items\pyro\Skullmask_Normal"
+}

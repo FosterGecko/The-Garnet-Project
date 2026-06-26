@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\demo/scarecrow_hat"
+	"$bumpmap" "models\effects\flat_normal" 
+
+}

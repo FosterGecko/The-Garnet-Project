@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/inj2_ios_deadshot/deadshot_elegant"
+	"$bumpmap" "models/krypto/inj2_ios_deadshot/DE_A_U_N"
+                "$phongexponenttexture" "models/krypto/inj2_ios_deadshot/DE_A_E_S"
+
+"$phong" "1"
+"$phongboost" ".5"
+"$phongfresnelranges" "[0.15 0.5 1]"
+
+"$model" "1"
+"$ambientocclusion" "1"
+"$ambientoccltexture" "models/krypto/inj2_ios_deadshot/DE_A_U_L"
+"$ambientocclusiontexture" "models/krypto/inj2_ios_deadshot/DE_A_U_L"
+
+"$rimlight" "1" 
+"$rimlightexponent" "1" 
+"$rimlightboost" "1" 
+"$rimmask" "1"
+}

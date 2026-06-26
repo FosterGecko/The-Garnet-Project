@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/items/pyro/pyro_decapitated"
+	"$bumpmap"     "models/player/shared/shared_normal"
+}

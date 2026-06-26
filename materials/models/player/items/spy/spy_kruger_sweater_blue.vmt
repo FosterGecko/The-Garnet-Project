@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\spy/spy_kruger_sweater_blue"
+	"$bumpmap" "models\player\items\spy/spy_kruger_sweater_normal" 
+
+
+}

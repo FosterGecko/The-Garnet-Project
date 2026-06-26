@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/items/pyro/pyrozombie"
+	"$bumpmap" "models/player/items/pyro/pyrozombie_normal"
+}

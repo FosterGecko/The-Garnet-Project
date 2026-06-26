@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "\models\player\items\all_class\temp_gauge_blue"
+	"$bumpmap" "models/effects/flat_normal" 
+
+}

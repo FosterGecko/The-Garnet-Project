@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\player\items\medic/deadhand"
+	"$bumpmap" "models\effects\flat_normal"
+}

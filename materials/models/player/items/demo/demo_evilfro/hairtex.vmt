@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/items/demo/demo_evilfro/hairef"
+	"$nocull" 1
+	"$bumpmap" "models/player/items/demo/demo_evilfro/hairnormal"
+
+}

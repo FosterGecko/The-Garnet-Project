@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/c_baleful_beacon/c_baleful_beacon_glass"
+	"$lightwarptexture" "models\player\pyro\pyro_lightwarp"
+}

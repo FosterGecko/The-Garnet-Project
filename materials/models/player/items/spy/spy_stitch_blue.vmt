@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\player\items\spy\spy_stitch_blue"
+	"$bumpmap" "models\effects\flat_normal" 
+
+
+
+}
+

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\demo/demo_panhorns"
+	"$bumpmap" "models/effects/flat_normal" 
+}

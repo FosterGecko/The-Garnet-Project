@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    $basetexture gift/christmas_gift_textures_3
+	$phong 1
+	$phongexponent 5
+	$phongboost	15.0
+	$phongfresnelranges	"[0 0.5 1]"
+}

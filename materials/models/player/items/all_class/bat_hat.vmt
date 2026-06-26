@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\all_class/bat_hat"
+
+	"$bumpmap" "models\effects\flat_normal" 
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/items/pyro/pyro_werewolf_01_trans"
+	"$bumpmap" "models/player/items/pyro/pyro_werewolf_01_transbump"
+}

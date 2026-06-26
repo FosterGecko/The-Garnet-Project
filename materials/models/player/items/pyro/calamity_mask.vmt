@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\items\pyro\calamity_mask.vtf"
+	//"$lightwarptexture" "models\player\pyro\pyro_lightwarp"
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+
+}

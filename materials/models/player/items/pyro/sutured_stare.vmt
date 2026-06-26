@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\items\pyro\sutured_stare.vtf"
+	"$lightwarptexture" "models\player\pyro\pyro_lightwarp"
+
+	//"$bumpmap" "models\effects\flat_normal"
+	"$bumpmap" "models\player\items\pyro\sutured_stare_normal"
+}

@@ -1,0 +1,10 @@
+"UnlitTwoTexture"
+{
+	"$basetexture"	"models/effects/pyro/pilotlight_yellow"
+	"$texture2" "models/effects/pyro/pilotlight_motion_yellow"
+	"$surfaceprop"	"default"
+	"$additive"	1
+	"$model" 1
+	"$nodecal" "1"
+		
+}

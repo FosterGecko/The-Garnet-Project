@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\heavy\vladhat_blu"
+	"$bumpmap" "models\player\items\heavy\vladhat_normal"
+}

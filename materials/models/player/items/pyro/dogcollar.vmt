@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/items/pyro/dogcollar"
+	"$bumpmap"	"models/effects/flat_normal"
+}

@@ -3,15 +3,5 @@
 	"$basetexture" "models/blacklist/spy1/facemask"
 	"$bumpmap" "models/blacklist/spy1/facemask_n"
 
-	"$phong" 1
-	"$phongboost" 0.25
-	"$phongexponent" 10
-	"$phongtint" "[.75 .75 1]"
-	"$phongfresnelranges" "[.1 .5 1]"
 
-	"$model" 1
-
-	"$rimlight" "1"
-	"$rimlightexponent" "5"
-	"$rimlightboost" "0.15"
 }

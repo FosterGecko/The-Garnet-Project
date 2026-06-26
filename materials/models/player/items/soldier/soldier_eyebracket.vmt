@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\player\items\soldier\soldier_eyebracket"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.3"
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 4]"
+	"$basemapalphaphongmask" "1"
+
+}

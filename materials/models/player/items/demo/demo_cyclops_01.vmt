@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\demo\demo_cyclops_01"
+
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models\weapons\c_items/c_ambassador_lightwarp"
+
+}
+

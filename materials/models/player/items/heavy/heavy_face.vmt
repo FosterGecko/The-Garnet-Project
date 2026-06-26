@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/items/heavy/heavy_face"
+	"$bumpmap" "models/effects/flat_normal" 
+}

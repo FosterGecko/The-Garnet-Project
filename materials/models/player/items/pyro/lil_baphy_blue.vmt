@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/items/pyro/lil_baphy_blue"
+	"$bumpmap" "models\effects\flat_normal" 
+}

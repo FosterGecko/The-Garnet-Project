@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\items\demo/lochfeet"
+	"$bumpmap" "models\player\items\demo/lochfeet_normal" 
+}
